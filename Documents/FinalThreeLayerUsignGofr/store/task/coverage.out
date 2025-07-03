@@ -1,0 +1,15 @@
+mode: set
+FinalThreeLayer/store/task/taskStore.go:19.33,21.2 1 1
+FinalThreeLayer/store/task/taskStore.go:23.58,28.18 4 1
+FinalThreeLayer/store/task/taskStore.go:28.18,32.3 3 1
+FinalThreeLayer/store/task/taskStore.go:33.2,34.19 2 1
+FinalThreeLayer/store/task/taskStore.go:37.62,41.2 3 1
+FinalThreeLayer/store/task/taskStore.go:43.56,45.16 2 1
+FinalThreeLayer/store/task/taskStore.go:45.16,47.3 1 0
+FinalThreeLayer/store/task/taskStore.go:47.8,49.3 1 1
+FinalThreeLayer/store/task/taskStore.go:52.46,54.16 2 1
+FinalThreeLayer/store/task/taskStore.go:54.16,56.3 1 0
+FinalThreeLayer/store/task/taskStore.go:56.8,58.3 1 1
+FinalThreeLayer/store/task/taskStore.go:61.46,63.16 2 1
+FinalThreeLayer/store/task/taskStore.go:63.16,65.3 1 0
+FinalThreeLayer/store/task/taskStore.go:65.8,67.3 1 1

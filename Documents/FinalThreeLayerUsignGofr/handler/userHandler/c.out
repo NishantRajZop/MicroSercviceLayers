@@ -1,0 +1,20 @@
+mode: set
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:16.55,18.2 1 1
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:30.70,34.40 2 1
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:34.40,37.3 1 1
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:40.2,40.21 1 1
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:40.21,42.3 1 1
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:53.2,55.16 3 1
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:55.16,57.3 1 0
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:59.2,59.21 1 1
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:72.71,76.16 3 0
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:76.16,78.3 1 0
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:80.2,81.16 2 0
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:81.16,86.3 1 0
+FinalThreeLayerUsingGOfr/handler/userHandler/userHandler.go:88.2,88.18 1 0
+FinalThreeLayerUsingGOfr/handler/userHandler/user_interface_mock.go:33.67,37.2 3 1
+FinalThreeLayerUsingGOfr/handler/userHandler/user_interface_mock.go:40.65,42.2 1 1
+FinalThreeLayerUsingGOfr/handler/userHandler/user_interface_mock.go:45.97,51.2 5 1
+FinalThreeLayerUsingGOfr/handler/userHandler/user_interface_mock.go:54.80,57.2 2 1
+FinalThreeLayerUsingGOfr/handler/userHandler/user_interface_mock.go:60.87,66.2 5 0
+FinalThreeLayerUsingGOfr/handler/userHandler/user_interface_mock.go:69.78,72.2 2 0
